@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Frameworks, C#**
 
-- 👨‍💻 Portfolio [hamza-portfolio.me](hamza-portfolio.me)
+- 👨‍💻 Portfolio [hamza-portfolio.me](https://hamza-portfolio.me/)
 
 - 📫 How to reach me **hamzahaboubi2003@gmail.com**
 
